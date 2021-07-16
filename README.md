@@ -16,6 +16,10 @@
 
 车型大全子服务：https://github.com/CarLibrary/library
 
+评分子服务：https://github.com/CarLibrary/scoring
+
+试驾子服务：https://github.com/CarLibrary/testdrive
+
 proto接口文件：https://github.com/CarLibrary/proto
 
 项目开发中，敬请期待
